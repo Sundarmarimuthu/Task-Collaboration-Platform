@@ -1,0 +1,5 @@
+{
+  "name": "IntelliTask AI",
+  "description": "A next-generation task collaboration web application that leverages AI for intelligent task creation and management. Simply describe a task in natural language, and our AI will parse, categorize, and add it to your project board.",
+  "requestFramePermissions": []
+}
